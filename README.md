@@ -21,7 +21,7 @@ Search any city in the world and see the current weather: temperature, humidity,
 
 ## 🛠️ Run it on your computer
 ```bash
-git clone https://github.com/abdulsattarnangri7-desktoop/weather-app.git
+git clone https://github.com/abdulsattar1-dev/weather-app.git
 cd weather-app
 npm install
 npm run dev
@@ -33,4 +33,4 @@ React 19 · Vite · Open-Meteo API · CSS
 
 ## 👤 Author
 **Abdul Sattar** — WordPress & React Developer
-[GitHub](https://github.com/abdulsattarnangri7-desktoop) · [Portfolio](http://abdulsattarportfolio.free.nf)
+[GitHub](https://github.com/abdulsattar1-dev) · [Portfolio](http://abdulsattarportfolio.free.nf)
