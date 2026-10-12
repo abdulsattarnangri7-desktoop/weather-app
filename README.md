@@ -2,7 +2,7 @@
 
 Search any city in the world and see the current weather: temperature, humidity, wind and conditions.
 
-**🔗 Live demo:** _add your Vercel link here_
+**🔗 Live demo:** https://weather-app-black-six-1xfo9gsj2y.vercel.app
 
 ## ✨ Features
 - Search any city (button or **Enter** key)
